@@ -1,8 +1,0 @@
-numpy
-matplotlib
-pillow
-scikit-image
-opencv-contrib-python
-torch
-torchvision
-notebook
